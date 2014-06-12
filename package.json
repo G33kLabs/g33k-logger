@@ -1,0 +1,12 @@
+{
+    "name": "g33k-logger",
+    "version": "0.1.0",
+    "author": {
+        "name": "G33kLabs",
+        "email": "contact@g33klabs.fr"
+    },
+    "main": "logger.js",
+    "engines": {
+        "node": ">= 0.8.0"
+    }
+}
